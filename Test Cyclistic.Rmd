@@ -47,18 +47,18 @@ library(geosphere)
 ### Step 2: import data into R
 
 ```{r}
-m2_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202202-divvy-tripdata.csv")
-m3_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202203-divvy-tripdata.csv")
-m4_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202204-divvy-tripdata.csv")
-m5_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202205-divvy-tripdata.csv")
-m6_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202206-divvy-tripdata.csv")
-m7_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202207-divvy-tripdata.csv")
-m8_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202208-divvy-tripdata.csv")
-m9_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202209-divvy-publictripdata.csv")
-m10_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202210-divvy-tripdata.csv")
-m11_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202211-divvy-tripdata.csv")
-m12_2022 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202212-divvy-tripdata.csv")
-m1_2023 <- read.csv("C:/Users/desto/OneDrive/Desktop/Coding Notes/Google Data analytics/Course 8/Cyclistic Data/CSV/202301-divvy-tripdata.csv")
+m2_2022 <- read.csv("C:/Users/desto/.../202202-divvy-tripdata.csv")
+m3_2022 <- read.csv("C:/Users/desto/.../202203-divvy-tripdata.csv")
+m4_2022 <- read.csv("C:/Users/desto/.../202204-divvy-tripdata.csv")
+m5_2022 <- read.csv("C:/Users/desto/.../202205-divvy-tripdata.csv")
+m6_2022 <- read.csv("C:/Users/desto/.../202206-divvy-tripdata.csv")
+m7_2022 <- read.csv("C:/Users/desto/.../202207-divvy-tripdata.csv")
+m8_2022 <- read.csv("C:/Users/desto/.../202208-divvy-tripdata.csv")
+m9_2022 <- read.csv("C:/Users/desto/.../202209-divvy-publictripdata.csv")
+m10_2022 <- read.csv("C:/Users/desto/.../202210-divvy-tripdata.csv")
+m11_2022 <- read.csv("C:/Users/desto/.../202211-divvy-tripdata.csv")
+m12_2022 <- read.csv("C:/Users/desto/.../202212-divvy-tripdata.csv")
+m1_2023 <- read.csv("C:/Users/desto/.../202301-divvy-tripdata.csv")
 ```
 
 * **check for consistency** 
